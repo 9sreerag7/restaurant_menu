@@ -23,7 +23,8 @@ restaurant_menu/
 ├── style.css — CSS styling for layout, colors, effects
 └── (optional images) — banner, food photos, etc.
 ```
-
+## Live Demo
+Check out the project online: [Restaurant Menu](https://9sreerag7.github.io/restaurant_menu/)
 ---
 
 ## 🚀 How to Run
