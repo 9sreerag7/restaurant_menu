@@ -16,13 +16,13 @@ Displays sections like *Starters*, *Main Course*, *Desserts*, and *Drinks*, laid
 ---
 
 ## 📁 Project Structure
-
+```
 restaurant_menu/
 │
 ├── index.html — main HTML file with menu sections
 ├── style.css — CSS styling for layout, colors, effects
 └── (optional images) — banner, food photos, etc.
-
+```
 
 ---
 
@@ -31,5 +31,11 @@ restaurant_menu/
 1. Clone the repository:
    ```bash
    git clone https://github.com/9sreerag7/restaurant_menu.git
-2. cd restaurant_menu
-3. open index.html
+2. Navigate into project folder:
+   ```bash
+   cd restaurant_menu
+3. Open index.html in your browser:
+   ```bash
+   open index.html
+
+
